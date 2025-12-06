@@ -43,4 +43,4 @@ Como documentar um projeto para recrutadores e avaliadores.
 Processo de deploy em GitHub Pages.
 
 
-
+* Altere o projeto e compare com o original na pasta de backup detonaRalph-backup.
