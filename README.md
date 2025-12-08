@@ -8,6 +8,8 @@ CSS3
 JavaScript (ES6+)
 Git / GitHub
 
+![Tela do Jogo](https://github.com/lcnjrj/Detona-Ralph/blob/main/screen-jogo.jpg)
+
 Hospedagem: GitHub Pages (deploy estático)
 
 Funcionalidades
